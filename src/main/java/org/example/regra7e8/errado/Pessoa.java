@@ -1,6 +1,6 @@
-package org.example.regra8.errado;
+package org.example.regra7e8.errado;
 
-import org.example.regra8.*;
+import org.example.regra7e8.*;
 
 public class Pessoa {
     private String nome;

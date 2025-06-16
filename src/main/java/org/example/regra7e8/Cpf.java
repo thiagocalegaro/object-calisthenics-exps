@@ -1,4 +1,4 @@
-package org.example.regra8;
+package org.example.regra7e8;
 
 public class Cpf {
     private String numero;

@@ -1,4 +1,4 @@
-package org.example.regra1.certo;
+package org.example.regra1;
 
 // Cliente.java
 public class Cliente {

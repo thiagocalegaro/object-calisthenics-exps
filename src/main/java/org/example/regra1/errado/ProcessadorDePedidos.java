@@ -1,9 +1,9 @@
 package org.example.regra1.errado;
 
-import org.example.regra1.certo.Cliente;
-import org.example.regra1.certo.Estoque;
-import org.example.regra1.certo.Item;
-import org.example.regra1.certo.Pedido;
+import org.example.regra1.Cliente;
+import org.example.regra1.Estoque;
+import org.example.regra1.Item;
+import org.example.regra1.Pedido;
 
 import java.util.List;
 
@@ -19,7 +19,7 @@ public class ProcessadorDePedidos {
         //nível 1 de indentação
         for (Item item : itens) {
 
-            //nível 2 de indentação
+            //nível 2 de] indentação
             if (Estoque.verificarEstoque(item)) {
                 double precoItem = item.getPreco();
 

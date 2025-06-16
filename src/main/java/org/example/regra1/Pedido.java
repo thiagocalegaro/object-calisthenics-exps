@@ -1,4 +1,4 @@
-package org.example.regra1.certo;
+package org.example.regra1;
 
 import java.util.List;
 

@@ -21,7 +21,7 @@ public class Usuario {
             System.out.println("Falha no login. Verifique suas credenciais.");
         }
     }
-    public void LoginCerto(String username, String senha) {
+    public void loginCerto(String username, String senha) {
         //não usar else
         if (!this.username.equals(username) || !this.senha.equals(senha)) {
             throw new IllegalArgumentException("Falha no login. Verifique suas credenciais.");

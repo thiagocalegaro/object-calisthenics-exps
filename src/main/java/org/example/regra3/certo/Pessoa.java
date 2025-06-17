@@ -2,10 +2,8 @@ package org.example.regra3.certo;
 
 public class Pessoa {
     private String nome;
-    private String email;
+    private Email email;
 
 
-    public String getNome() {
-        return nome;
-    }
+    // métodos e construtor
 }
